@@ -36,7 +36,7 @@ It visualizes real-time trends, moving averages, and compares actual vs predicte
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/tarupathak30/stock-price-prediction.git
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
 streamlit run app.py
